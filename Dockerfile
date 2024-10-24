@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="my-project"
 ARG DESCRIPTION="My first Duckietown project"
-ARG MAINTAINER="Saurabh (saurabhssahane123@gmail.com)"
+ARG MAINTAINER="Saurabh (saurabhsahane123@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
